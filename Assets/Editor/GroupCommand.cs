@@ -1,6 +1,6 @@
 ﻿ using UnityEditor;
  using UnityEngine;
- 
+
  public static class GroupCommand
  {
      [MenuItem("GameObject/Group Selected %g")]
